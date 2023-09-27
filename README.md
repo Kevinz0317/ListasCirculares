@@ -1,6 +1,7 @@
 # Inventario con Listas Circulares
-# Integrantes:
-# Ivone Gisela Lopez Cruz
+
+Integrantes:
+Ivone Gisela Lopez Cruz
 Gabriel Esteban Martinez Roldan
 Kevin Esteban Chiquillo Diaz
 Enunciado
